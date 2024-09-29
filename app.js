@@ -22,7 +22,10 @@ app.use(
 );
 
 connectDB();
+app.get("/",(req,res)=>{
 
+    res.send("Hello Welcome To Books")
+})
 app.use("/api/books", bookRoutes);
 
 app.use("/api/transactions", transactionRoutes);
@@ -37,6 +40,6 @@ app.use((err, req, res, next) => {
     .json({ message: err.message || "Internal Server Error" });
 });
 
-const PORT = process.env.PORT || 5000;
+
 
 module.exports = app;
