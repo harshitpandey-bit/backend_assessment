@@ -1,0 +1,310 @@
+{"level":"info","message":"Server running on port 8080","timestamp":"2024-09-29T14:20:47.827Z"}
+{"level":"error","message":"Database connection failed: bad auth : Authentication failed.","timestamp":"2024-09-29T14:20:48.331Z"}
+{"level":"info","message":"Server running on port 8080","timestamp":"2024-09-29T14:21:07.204Z"}
+{"level":"error","message":"Database connection failed: bad auth : Authentication failed.","timestamp":"2024-09-29T14:21:07.659Z"}
+{"level":"info","message":"Server running on port 8080","timestamp":"2024-09-29T14:21:17.536Z"}
+{"level":"error","message":"Database connection failed: bad auth : Authentication failed.","timestamp":"2024-09-29T14:21:18.187Z"}
+{"level":"info","message":"Server running on port 8080","timestamp":"2024-09-29T14:21:22.566Z"}
+{"level":"error","message":"Database connection failed: bad auth : Authentication failed.","timestamp":"2024-09-29T14:21:22.996Z"}
+{"level":"info","message":"Server running on port 8080","timestamp":"2024-09-29T14:22:04.879Z"}
+{"level":"error","message":"Database connection failed: bad auth : Authentication failed.","timestamp":"2024-09-29T14:22:05.403Z"}
+{"level":"info","message":"Server running on port 8080","timestamp":"2024-09-29T14:23:37.099Z"}
+{"level":"error","message":"Database connection failed: bad auth : Authentication failed.","timestamp":"2024-09-29T14:23:37.543Z"}
+{"level":"info","message":"Server running on port 8080","timestamp":"2024-09-29T14:24:40.937Z"}
+{"level":"info","message":"Server running on port 8080","timestamp":"2024-09-29T14:24:42.414Z"}
+{"level":"error","message":"Database connection failed: bad auth : Authentication failed.","timestamp":"2024-09-29T14:24:42.798Z"}
+{"level":"info","message":"Server running on port 8080","timestamp":"2024-09-29T14:24:44.052Z"}
+{"level":"error","message":"Database connection failed: bad auth : Authentication failed.","timestamp":"2024-09-29T14:24:44.459Z"}
+{"level":"info","message":"Server running on port 8080","timestamp":"2024-09-29T14:24:48.781Z"}
+{"level":"error","message":"Database connection failed: bad auth : Authentication failed.","timestamp":"2024-09-29T14:24:49.262Z"}
+{"level":"info","message":"Server running on port 8080","timestamp":"2024-09-29T14:24:51.862Z"}
+{"level":"error","message":"Database connection failed: bad auth : Authentication failed.","timestamp":"2024-09-29T14:24:52.649Z"}
+{"level":"info","message":"Server running on port 8080","timestamp":"2024-09-29T14:24:54.754Z"}
+{"level":"info","message":"Server running on port 8080","timestamp":"2024-09-29T14:24:56.376Z"}
+{"level":"error","message":"Database connection failed: bad auth : Authentication failed.","timestamp":"2024-09-29T14:24:56.801Z"}
+{"level":"info","message":"Server running on port 8080","timestamp":"2024-09-29T14:24:58.475Z"}
+{"level":"error","message":"Database connection failed: bad auth : Authentication failed.","timestamp":"2024-09-29T14:24:59.020Z"}
+{"level":"info","message":"Server running on port 8080","timestamp":"2024-09-29T14:25:05.735Z"}
+{"level":"error","message":"Database connection failed: bad auth : Authentication failed.","timestamp":"2024-09-29T14:25:06.188Z"}
+{"level":"info","message":"Server running on port 8080","timestamp":"2024-09-29T14:25:15.042Z"}
+{"level":"error","message":"Database connection failed: bad auth : Authentication failed.","timestamp":"2024-09-29T14:25:15.476Z"}
+{"level":"info","message":"Server running on port 8080","timestamp":"2024-09-29T14:25:17.279Z"}
+{"level":"error","message":"Database connection failed: bad auth : Authentication failed.","timestamp":"2024-09-29T14:25:17.712Z"}
+{"level":"info","message":"Server running on port 8080","timestamp":"2024-09-29T14:25:23.046Z"}
+{"level":"info","message":"Server running on port 8080","timestamp":"2024-09-29T14:25:24.187Z"}
+{"level":"info","message":"Server running on port 8080","timestamp":"2024-09-29T14:25:25.673Z"}
+{"level":"error","message":"Database connection failed: bad auth : Authentication failed.","timestamp":"2024-09-29T14:25:26.124Z"}
+{"level":"info","message":"Server running on port 8080","timestamp":"2024-09-29T14:25:45.013Z"}
+{"level":"error","message":"Database connection failed: bad auth : Authentication failed.","timestamp":"2024-09-29T14:25:45.669Z"}
+{"level":"info","message":"Server running on port 8080","timestamp":"2024-09-29T14:25:56.229Z"}
+{"level":"error","message":"Database connection failed: bad auth : Authentication failed.","timestamp":"2024-09-29T14:26:01.757Z"}
+{"level":"info","message":"Server running on port 8080","timestamp":"2024-09-29T14:26:07.341Z"}
+{"level":"error","message":"Database connection failed: bad auth : Authentication failed.","timestamp":"2024-09-29T14:26:08.130Z"}
+{"level":"info","message":"Server running on port 8080","timestamp":"2024-09-29T14:26:23.002Z"}
+{"level":"error","message":"Database connection failed: bad auth : Authentication failed.","timestamp":"2024-09-29T14:26:23.693Z"}
+{"level":"info","message":"Server running on port 8080","timestamp":"2024-09-29T14:26:26.990Z"}
+{"level":"info","message":"Server running on port 8080","timestamp":"2024-09-29T14:26:28.548Z"}
+{"level":"error","message":"Database connection failed: bad auth : Authentication failed.","timestamp":"2024-09-29T14:26:29.109Z"}
+{"level":"info","message":"Server running on port 8080","timestamp":"2024-09-29T14:52:52.184Z"}
+{"level":"error","message":"Database connection failed: bad auth : Authentication failed.","timestamp":"2024-09-29T14:52:52.657Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2024-09-29T14:53:45.136Z"}
+{"level":"error","message":"Database connection failed: bad auth : Authentication failed.","timestamp":"2024-09-29T14:53:45.572Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2024-09-29T14:57:39.556Z"}
+{"level":"error","message":"Database connection failed: bad auth : Authentication failed.","timestamp":"2024-09-29T14:57:40.048Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2024-09-29T14:58:32.138Z"}
+{"level":"error","message":"Database connection failed: bad auth : Authentication failed.","timestamp":"2024-09-29T14:58:32.762Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2024-09-29T14:59:21.745Z"}
+{"level":"error","message":"Database connection failed: bad auth : Authentication failed.","timestamp":"2024-09-29T14:59:22.187Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2024-09-29T14:59:55.759Z"}
+{"level":"error","message":"Database connection failed: bad auth : Authentication failed.","timestamp":"2024-09-29T14:59:56.248Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2024-09-29T15:00:07.510Z"}
+{"level":"error","message":"Database connection failed: bad auth : Authentication failed.","timestamp":"2024-09-29T15:00:08.202Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2024-09-29T15:00:18.780Z"}
+{"level":"error","message":"Database connection failed: bad auth : Authentication failed.","timestamp":"2024-09-29T15:00:19.532Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2024-09-29T15:00:24.757Z"}
+{"level":"error","message":"Database connection failed: bad auth : Authentication failed.","timestamp":"2024-09-29T15:00:25.252Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2024-09-29T15:00:34.395Z"}
+{"level":"error","message":"Database connection failed: bad auth : Authentication failed.","timestamp":"2024-09-29T15:00:34.799Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2024-09-29T15:02:23.401Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2024-09-29T15:02:23.411Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2024-09-29T15:02:24.744Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2024-09-29T15:02:24.758Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2024-09-29T15:02:38.408Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2024-09-29T15:02:43.293Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2024-09-29T15:02:43.907Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2024-09-29T15:03:04.056Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2024-09-29T15:03:04.564Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2024-09-29T15:03:43.341Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2024-09-29T15:03:44.136Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2024-09-29T15:04:10.411Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2024-09-29T15:04:10.917Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2024-09-29T15:04:20.339Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2024-09-29T15:04:20.857Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2024-09-29T15:05:43.275Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2024-09-29T15:05:43.812Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2024-09-29T15:06:11.076Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2024-09-29T15:06:11.635Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2024-09-29T15:06:14.524Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2024-09-29T15:06:15.074Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2024-09-29T15:06:32.325Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2024-09-29T15:06:32.863Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2024-09-29T15:06:51.690Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2024-09-29T15:06:52.282Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2024-09-29T15:07:01.448Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2024-09-29T15:07:02.000Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2024-09-29T15:07:20.338Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2024-09-29T15:07:20.906Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2024-09-29T15:07:27.235Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2024-09-29T15:08:42.125Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2024-09-29T15:09:21.402Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2024-09-29T15:09:27.042Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2024-09-29T15:10:51.386Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2024-09-29T15:10:51.967Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2024-09-29T15:10:55.745Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2024-09-29T15:10:56.268Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2024-09-29T15:11:02.082Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2024-09-29T15:11:03.445Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2024-09-29T15:11:20.183Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2024-09-29T15:11:20.651Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2024-09-29T15:11:36.111Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2024-09-29T15:11:36.869Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2024-09-29T15:11:38.117Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2024-09-29T15:11:38.604Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2024-09-29T15:11:40.159Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2024-09-29T15:11:40.625Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2024-09-29T15:11:49.748Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2024-09-29T15:11:50.372Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2024-09-29T15:31:04.202Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2024-09-29T15:31:05.003Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2024-09-29T15:31:10.174Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2024-09-29T15:31:11.849Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2024-09-29T15:31:59.698Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2024-09-29T15:32:00.287Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2024-09-29T15:32:05.711Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2024-09-29T15:32:06.339Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2024-09-29T15:32:11.026Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2024-09-29T15:32:12.010Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2024-09-29T15:33:35.625Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2024-09-29T15:33:36.605Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2024-09-29T15:33:55.524Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2024-09-29T15:34:01.053Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2024-09-29T16:12:13.527Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2024-09-29T16:12:14.520Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2024-09-29T16:12:27.593Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2024-09-29T16:12:28.146Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2024-09-29T16:17:25.920Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2024-09-29T16:17:26.849Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2024-09-29T16:18:05.174Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2024-09-29T16:18:06.042Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2024-09-29T16:57:32.956Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2024-09-29T16:57:33.676Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2024-09-29T17:00:15.022Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2024-09-29T17:00:15.507Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2024-09-29T17:00:17.749Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2024-09-29T17:00:18.759Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2024-09-29T17:00:21.023Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2024-09-29T17:00:21.626Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2024-09-29T17:00:23.588Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2024-09-29T17:00:24.139Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2024-09-29T17:00:27.791Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2024-09-29T17:00:28.343Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2024-09-29T17:00:48.548Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2024-09-29T17:00:49.758Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2024-09-29T17:00:55.823Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2024-09-29T17:00:56.385Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2024-09-29T17:07:43.052Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2024-09-29T17:07:44.117Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2024-09-29T17:07:54.861Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2024-09-29T17:07:55.360Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2024-09-29T17:07:59.055Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2024-09-29T17:07:59.585Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2024-09-29T17:08:02.763Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2024-09-29T17:08:03.247Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2024-09-29T17:08:07.457Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2024-09-29T17:08:07.942Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2024-09-29T17:08:09.056Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2024-09-29T17:08:10.918Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2024-09-29T17:08:22.623Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2024-09-29T17:08:23.236Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2024-09-29T17:09:37.990Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2024-09-29T17:09:38.582Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2024-09-29T17:09:47.193Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2024-09-29T17:09:49.919Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2024-09-29T17:09:50.455Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2024-09-29T17:28:37.923Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2024-09-29T17:28:38.559Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2024-09-29T17:29:21.344Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2024-09-29T17:29:21.860Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2024-09-29T17:29:27.641Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2024-09-29T17:29:28.135Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2024-09-29T17:51:41.366Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2024-09-29T17:51:42.150Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2024-09-29T17:52:50.129Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2024-09-29T17:52:50.745Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2024-09-29T17:53:49.719Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2024-09-29T17:53:50.153Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2024-09-29T17:54:50.666Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2024-09-29T17:54:51.242Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2024-09-29T17:55:41.645Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2024-09-29T17:55:42.219Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2024-09-29T17:55:45.145Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2024-09-29T17:55:45.773Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2024-09-29T17:55:47.714Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2024-09-29T17:55:48.215Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2024-09-29T17:55:59.040Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2024-09-29T17:55:59.556Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2024-09-29T18:17:06.339Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2024-09-29T18:17:06.995Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2024-09-29T18:17:41.736Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2024-09-29T18:17:42.257Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2024-09-29T18:17:46.667Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2024-09-29T18:17:47.175Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2024-09-29T18:18:23.666Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2024-09-29T18:18:24.525Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2024-09-29T18:20:13.424Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2024-09-29T18:20:13.926Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2024-09-29T18:21:22.304Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2024-09-29T18:21:22.836Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2024-09-29T18:21:37.044Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2024-09-29T18:21:37.552Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2024-09-29T18:22:06.848Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2024-09-29T18:22:07.527Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2024-09-29T18:22:12.182Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2024-09-29T18:22:12.743Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2024-09-29T18:22:34.552Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2024-09-29T18:22:35.146Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2024-09-29T18:23:50.815Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2024-09-29T18:23:51.500Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2024-09-29T18:24:22.042Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2024-09-29T18:24:22.618Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2024-09-29T18:24:29.199Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2024-09-29T18:24:29.737Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2024-09-29T18:24:30.822Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2024-09-29T18:24:31.309Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2024-09-29T18:24:55.897Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2024-09-29T18:24:56.473Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2024-09-29T18:25:49.669Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2024-09-29T18:25:50.181Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2024-09-29T18:27:59.181Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2024-09-29T18:27:59.794Z"}
+{"level":"info","message":"Server running on port 8080","timestamp":"2024-09-29T18:28:49.169Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2024-09-29T18:28:50.473Z"}
+{"level":"info","message":"Server running on port 8080","timestamp":"2024-09-29T18:29:19.271Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2024-09-29T18:29:19.806Z"}
+{"level":"info","message":"Server running on port 8080","timestamp":"2024-09-29T18:29:59.728Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2024-09-29T18:30:00.390Z"}
+{"level":"info","message":"Server running on port 8080","timestamp":"2024-09-29T18:30:23.525Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2024-09-29T18:30:24.050Z"}
+{"level":"info","message":"Server running on port 8080","timestamp":"2024-09-29T18:30:43.913Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2024-09-29T18:30:44.420Z"}
+{"level":"info","message":"Server running on port 8080","timestamp":"2024-09-29T18:35:19.914Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2024-09-29T18:35:20.616Z"}
+{"level":"info","message":"Server running on port 8080","timestamp":"2024-09-29T18:35:23.558Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2024-09-29T18:35:24.075Z"}
+{"level":"info","message":"Server running on port 8080","timestamp":"2024-09-29T18:35:27.851Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2024-09-29T18:35:28.356Z"}
+{"level":"info","message":"Server running on port 8080","timestamp":"2024-09-29T18:35:31.937Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2024-09-29T18:35:32.470Z"}
+{"level":"info","message":"Server running on port 8080","timestamp":"2024-09-29T18:36:08.283Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2024-09-29T18:36:08.782Z"}
+{"level":"info","message":"Server running on port 8080","timestamp":"2024-09-29T18:36:31.063Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2024-09-29T18:36:31.624Z"}
+{"level":"info","message":"Server running on port 8080","timestamp":"2024-09-29T18:36:34.481Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2024-09-29T18:36:35.013Z"}
+{"level":"info","message":"Server running on port 8080","timestamp":"2024-09-29T18:36:37.734Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2024-09-29T18:36:38.252Z"}
+{"level":"info","message":"Server running on port 8080","timestamp":"2024-09-29T18:36:39.723Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2024-09-29T18:36:40.190Z"}
+{"level":"info","message":"Server running on port 8080","timestamp":"2024-09-29T18:37:03.279Z"}
+{"level":"info","message":"Server running on port 8080","timestamp":"2024-09-29T18:37:04.397Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2024-09-29T18:37:04.881Z"}
+{"level":"info","message":"Server running on port 8080","timestamp":"2024-09-29T18:37:07.178Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2024-09-29T18:37:07.689Z"}
+{"level":"info","message":"Server running on port 8080","timestamp":"2024-09-29T18:45:02.779Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2024-09-29T18:45:03.474Z"}
+{"level":"info","message":"Server running on port 8080","timestamp":"2024-09-29T18:45:12.882Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2024-09-29T18:45:13.383Z"}
+{"level":"info","message":"Server running on port 8080","timestamp":"2024-09-29T18:46:02.956Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2024-09-29T18:46:03.895Z"}
+{"level":"info","message":"Server running on port 8080","timestamp":"2024-09-29T18:56:33.512Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2024-09-29T18:56:34.075Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2024-09-29T18:56:44.374Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2024-09-29T18:56:44.928Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2024-09-29T19:00:02.079Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2024-09-29T19:00:02.666Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2024-09-29T19:01:28.316Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2024-09-29T19:01:28.939Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2024-09-29T19:01:32.882Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2024-09-29T19:01:33.412Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2024-09-29T19:08:01.227Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2024-09-29T19:08:01.837Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2024-09-29T19:13:21.548Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2024-09-29T19:13:22.140Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2024-09-29T19:13:25.672Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2024-09-29T19:13:26.155Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2024-09-29T19:14:15.075Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2024-09-29T19:14:15.583Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2024-09-29T19:31:22.260Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2024-09-29T19:31:22.784Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2024-09-29T19:31:31.690Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2024-09-29T19:31:32.264Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2024-09-29T19:31:42.195Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2024-09-29T19:31:42.700Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2024-09-29T19:31:46.539Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2024-09-29T19:31:47.033Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2024-09-29T19:31:51.730Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2024-09-29T19:31:52.265Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2024-09-29T19:31:58.080Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2024-09-29T19:31:58.527Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2024-09-29T19:32:00.394Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2024-09-29T19:32:00.868Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2024-09-29T19:32:03.188Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2024-09-29T19:32:03.747Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2024-09-29T19:32:05.230Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2024-09-29T19:32:05.727Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2024-09-29T19:32:09.692Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2024-09-29T19:32:10.189Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2024-09-29T19:32:13.320Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2024-09-29T19:32:13.777Z"}
+{"level":"info","message":"Server running on port 8000","timestamp":"2024-09-29T19:32:14.832Z"}
+{"level":"info","message":"Database connected successfully","timestamp":"2024-09-29T19:32:15.314Z"}
