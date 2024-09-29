@@ -1,0 +1,207 @@
+{
+	"info": {
+	  "_postman_id": "c847023b-769a-43e2-9890-e6ece1711f32",
+	  "name": "Book Rental API",
+	  "description": "API collection to test book rental API endpoints",
+	  "schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+	  "_exporter_id": "33146222"
+	},
+	"item": [
+	  {
+		"name": "Get Books by Name or Term",
+		"event": [
+		  {
+			"listen": "test",
+			"script": {
+			  "exec": [
+				"pm.test('Status code is 200', function () {",
+				"    pm.response.to.have.status(200);",
+				"});",
+				"pm.test('Response should be a list of books', function () {",
+				"    var jsonData = pm.response.json();",
+				"    pm.expect(jsonData).to.be.an('array');",
+				"    pm.expect(jsonData.length).to.be.above(0);",
+				"});"
+			  ],
+			  "type": "text/javascript"
+			}
+		  }
+		],
+		"request": {
+		  "method": "GET",
+		  "header": [],
+		  "url": {
+			"raw": "https://backend-assessment-g2gw.onrender.com/api/books?term=ill",
+			"host": [
+			  "backend-assessment-g2gw",
+			  "onrender",
+			  "com"
+			],
+			"path": [
+			  "api",
+			  "books"
+			],
+			"query": [
+			  {
+				"key": "term",
+				"value": "ill"
+			  }
+			]
+		  }
+		},
+		"response": []
+	  },
+	  {
+		"name": "Get Books by Rent Range",
+		"event": [
+		  {
+			"listen": "test",
+			"script": {
+			  "exec": [
+				"pm.test('Status code is 200', function () {",
+				"    pm.response.to.have.status(200);",
+				"});",
+				"pm.test('Books should be within the rent range', function () {",
+				"    var jsonData = pm.response.json();",
+				"    pm.expect(jsonData).to.be.an('array');",
+				"    jsonData.forEach(function (book) {",
+				"        pm.expect(book.rentPerDay).to.be.at.least(100);",
+				"        pm.expect(book.rentPerDay).to.be.at.most(500);",
+				"    });",
+				"});"
+			  ],
+			  "type": "text/javascript"
+			}
+		  }
+		],
+		"request": {
+		  "method": "GET",
+		  "header": [],
+		  "url": {
+			"raw": "https://backend-assessment-g2gw.onrender.com/api/books/rent?minRent=100&maxRent=500",
+			"host": [
+			  "backend-assessment-g2gw",
+			  "onrender",
+			  "com"
+			],
+			"path": [
+			  "api",
+			  "books",
+			  "rent"
+			],
+			"query": [
+			  {
+				"key": "minRent",
+				"value": "100"
+			  },
+			  {
+				"key": "maxRent",
+				"value": "500"
+			  }
+			]
+		  }
+		},
+		"response": []
+	  },
+	  {
+		"name": "Get Books by Category, Name, and Rent",
+		"event": [
+		  {
+			"listen": "test",
+			"script": {
+			  "exec": [
+				"pm.test('Status code is 200', function () {",
+				"    pm.response.to.have.status(200);",
+				"});",
+				"pm.test('Response should contain books matching category, name, and rent', function () {",
+				"    var jsonData = pm.response.json();",
+				"    pm.expect(jsonData).to.be.an('array');",
+				"    jsonData.forEach(function (book) {",
+				"        pm.expect(book.category).to.equal('Fiction');",
+				"        pm.expect(book.name.toLowerCase()).to.include('harry');",
+				"        pm.expect(book.rentPerDay).to.be.within(100, 500);",
+				"    });",
+				"});"
+			  ],
+			  "type": "text/javascript"
+			}
+		  }
+		],
+		"request": {
+		  "method": "GET",
+		  "header": [],
+		  "url": {
+			"raw": "https://backend-assessment-g2gw.onrender.com/api/books/category?category=Fiction&term=Harry&minRent=100&maxRent=500",
+			"host": [
+			  "backend-assessment-g2gw",
+			  "onrender",
+			  "com"
+			],
+			"path": [
+			  "api",
+			  "books",
+			  "category"
+			],
+			"query": [
+			  {
+				"key": "category",
+				"value": "Fiction"
+			  },
+			  {
+				"key": "term",
+				"value": "Harry"
+			  },
+			  {
+				"key": "minRent",
+				"value": "100"
+			  },
+			  {
+				"key": "maxRent",
+				"value": "500"
+			  }
+			]
+		  }
+		},
+		"response": []
+	  },
+	  {
+		"name": "Get All Books",
+		"event": [
+		  {
+			"listen": "test",
+			"script": {
+			  "exec": [
+				"pm.test('Status code is 200', function () {",
+				"    pm.response.to.have.status(200);",
+				"});",
+				"pm.test('Response should be a list of books', function () {",
+				"    var jsonData = pm.response.json();",
+				"    pm.expect(jsonData).to.be.an('array');",
+				"});"
+			  ],
+			  "type": "text/javascript"
+			}
+		  }
+		],
+		"request": {
+		  "method": "GET",
+		  "header": [],
+		  "url": {
+			"raw": "https://backend-assessment-g2gw.onrender.com/api/helpers/books",
+			"host": [
+			  "backend-assessment-g2gw",
+			  "onrender",
+			  "com"
+			],
+			"path": [
+			  "api",
+			  "helpers",
+			  "books"
+			]
+		  }
+		},
+		"response": []
+	  }
+	]
+  }
+  

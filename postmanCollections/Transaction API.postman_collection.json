@@ -1,0 +1,199 @@
+{
+	"info": {
+		"_postman_id": "c6036d59-c9dc-452c-b7e1-de3f12500e44",
+		"name": "Transaction API",
+		"description": "API collection to test transaction-related API endpoints",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "33146222"
+	},
+	"item": [
+		{
+			"name": "Issue Book",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"pm.test('Status code is 200', function () {",
+							"    pm.response.to.have.status(200);",
+							"});",
+							"pm.test('Transaction should be created', function () {",
+							"    var jsonData = pm.response.json();",
+							"    pm.expect(jsonData).to.have.property('bookId');",
+							"    pm.expect(jsonData).to.have.property('userId');",
+							"    pm.expect(jsonData).to.have.property('issueDate');",
+							"});"
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"bookName\": \"The Great Gatsby\",\n    \"userId\": \"66f86b8dfb6af823f535830d\",\n    \"issueDate\": \"2024-09-29\"\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": "https://backend-assessment-g2gw.onrender.com/api/transactions/issue"
+			},
+			"response": []
+		},
+		{
+			"name": "Return Book",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"pm.test('Status code is 200', function () {",
+							"    pm.response.to.have.status(200);",
+							"});",
+							"pm.test('Book should be returned with rent amount', function () {",
+							"    var jsonData = pm.response.json();",
+							"    pm.expect(jsonData).to.have.property('returnDate');",
+							"    pm.expect(jsonData).to.have.property('rentAmount');",
+							"});"
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"value": "application/json"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"bookName\": \"The Great Gatsby\",\n    \"userId\": \"66f86b8dfb6af823f535830d\",\n    \"returnDate\": \"2024-09-29\"\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": "https://backend-assessment-g2gw.onrender.com/api/transactions/return"
+			},
+			"response": []
+		},
+		{
+			"name": "Get Transaction History by Book",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"pm.test('Status code is 200', function () {",
+							"    pm.response.to.have.status(200);",
+							"});",
+							"pm.test('Response should contain transaction history', function () {",
+							"    var jsonData = pm.response.json();",
+							"    pm.expect(jsonData).to.have.property('totalIssued');",
+							"    pm.expect(jsonData).to.have.property('currentlyIssued');",
+							"});"
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": "https://backend-assessment-g2gw.onrender.com/api/transactions/book?bookName=The Great Gatsby"
+			},
+			"response": []
+		},
+		{
+			"name": "Get Total Rent by Book",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"pm.test('Status code is 200', function () {",
+							"    pm.response.to.have.status(200);",
+							"});",
+							"pm.test('Response should contain total rent for the book', function () {",
+							"    var jsonData = pm.response.json();",
+							"    pm.expect(jsonData).to.have.property('totalRent');",
+							"});"
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": "https://backend-assessment-g2gw.onrender.com/api/transactions/book/rent?bookName=The Great Gatsby"
+			},
+			"response": []
+		},
+		{
+			"name": "Get Books Issued to User",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"pm.test('Status code is 200', function () {",
+							"    pm.response.to.have.status(200);",
+							"});",
+							"pm.test('Response should contain books issued to user', function () {",
+							"    var jsonData = pm.response.json();",
+							"    pm.expect(jsonData).to.be.an('array');",
+							"});"
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": "https://backend-assessment-g2gw.onrender.com/api/transactions/user/66f86b8dfb6af823f535830d"
+			},
+			"response": []
+		},
+		{
+			"name": "Get Transactions by Date Range",
+			"event": [
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"pm.test('Status code is 200', function () {",
+							"    pm.response.to.have.status(200);",
+							"});",
+							"pm.test('Response should contain transactions in the date range', function () {",
+							"    var jsonData = pm.response.json();",
+							"    pm.expect(jsonData).to.be.an('array');",
+							"});"
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": "https://backend-assessment-g2gw.onrender.com/api/transactions/date-range?startDate=2024-09-01&endDate=2024-09-29"
+			},
+			"response": []
+		}
+	]
+}
